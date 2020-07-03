@@ -1,0 +1,21 @@
+body {
+  background-color: #ccc;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+main {
+  max-height: max-content;
+  text-align: center;
+}
+a:hover {
+  font-size: 25;
+  color: blue;
+}
+span:hover {
+  text-decoration: underline;
+}
+span {
+  font-family: "Indie Flower", cursive;
+  margin-top: 70px;
+  
+}
